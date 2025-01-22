@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **MEARN, Node.js**
+- 💬 Ask me about **MEARN, Data Analytics**
 
 - 📫 How to reach me **ekanshmaheshwari27@gmail.com**
 
